@@ -8,5 +8,6 @@ library and a C# compiler. It works fine under Windows XP, Vista ... Windows 10.
         I hope you enjoy it.
 </p>
 <br><br>
-<p><img src="ECExplorer.jpg"></p>
+<p><img src="ECExplorer.jpg">
 <br><br>
+</p>
