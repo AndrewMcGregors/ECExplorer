@@ -1,4 +1,4 @@
-#	EC Explorer (coming soon)
+#	EC Explorer
 <p>
         EC Explorer is similar to EC Navigator but is written in  C#.  In order
 to run EC Explorer, it is necessary the Microsoft .NET Framework 4 or above. In 
