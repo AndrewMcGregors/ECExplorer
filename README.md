@@ -9,7 +9,5 @@ library and a C# compiler. It works fine under Windows XP, Vista ... Windows 10.
         I hope you enjoy it.
 </p>
 <br><br>
-<p>
 ![](ECExplorer.jpg)
 <br><br>
-</p>
