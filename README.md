@@ -1,5 +1,5 @@
 #	EC Explorer
-![](ECExplorer.jpg)
+
 <p>
         EC Explorer is similar to EC Navigator but is written in  C#.  In order
 to run EC Explorer, it is necessary the Microsoft .NET Framework 4 or above. In 
@@ -9,6 +9,7 @@ library and a C# compiler. It works fine under Windows XP, Vista ... Windows 10.
         I hope you enjoy it.
 </p>
 <br><br>
-<p><img src="ECExplorer.jpg">
+<p>
+![](ECExplorer.jpg)
 <br><br>
 </p>
